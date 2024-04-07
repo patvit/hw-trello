@@ -1,5 +1,6 @@
 # Домашнее задание к занятию "6. Работа с файлами, DnD"
 
+[![Build status](https://ci.appveyor.com/api/projects/status/bvp6nhhn7oqu4q8r?svg=true)](https://ci.appveyor.com/project/patvit/hw-trello)
 
 
 Правила сдачи задания:
